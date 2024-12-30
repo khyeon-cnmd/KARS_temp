@@ -5,7 +5,7 @@ A program that automates the extraction of keywords from scientific research bas
 
 # Installation
 ## 1. Clone Github repository
-    git clone --recurse-submodules https://github.com/khyeon-cnmd/KARS.git
+    git clone https://github.com/khyeon-cnmd/KARS.git
 
 ## 2. Setup anaconda
     conda create -n KARS python==3.10
